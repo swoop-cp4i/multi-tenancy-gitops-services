@@ -6,8 +6,8 @@ ibm-platform-navigator-instance:
     spec:
       license:
         accept: true
-        license: L-RJON-CJR2RX
+        license: L-RJON-CJR2WN
       mqDashboard: true
-      version: 2022.4.1
+      version: c
       replicas: 2   
       
